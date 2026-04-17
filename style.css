@@ -1,0 +1,41 @@
+.banner {
+	width: 70%;
+	background-image: url("bkg.jpg");
+	padding: 50px;
+	font-size: 40px;
+	background-size: cover;
+	text-align: justify;
+	line-height: 30px;
+	letter-spacing: 15px;
+	background-attachment: fixed;
+	text-align: center;
+}
+.hd{
+	font-size: 100px;
+	font-family: impact;
+	color: orangered;
+}
+.symbol {
+	color: darkblue;
+	font-size: 60px;
+	font-family: impact;
+}
+.tab{
+	width: 80%;
+	border: 0px solid black;
+}
+.tab td{
+	border: 0px solid black;
+	width: 25%;
+	padding: 10px;
+}
+.tab1{
+	width: 80%;
+	border: 0px solid black;
+}
+.tab1 td{
+	border: 0px solid black;
+	width: 25%;
+	background: lightblue;
+	padding: 10px;
+}
